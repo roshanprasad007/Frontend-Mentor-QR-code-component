@@ -25,6 +25,7 @@ body {
   background-color: white;
   padding: 2rem 2rem;
   border-radius: 2rem;
+  box-shadow: 10px 50px 100px 5px rgba(0, 0, 0, 0.138);
 }
 .qr-code {
   width: 100%;
